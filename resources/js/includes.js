@@ -1,0 +1,10 @@
+window.$ = window.jQuery = require('@static/plugins/jquery/jquery.min.js');
+require('@static/plugins/jquery-ui/jquery-ui.min.js')
+require('@static/plugins/bootstrap/js/bootstrap.bundle.min.js')
+require('@static/plugins/chart.js/Chart.min.js')
+require('@static/plugins/sparklines/sparkline.js')
+require('@static/plugins/jqvmap/jquery.vmap.min.js')
+require('@static/plugins/jquery-knob/jquery.knob.min.js')
+require('@static/plugins/daterangepicker/daterangepicker.js')
+require('@static/plugins/tempusdominus-bootstrap-4/js/tempusdominus-bootstrap-4.min.js')
+require('@static/plugins/summernote/summernote-bs4.min.js')
